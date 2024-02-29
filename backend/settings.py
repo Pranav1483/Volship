@@ -137,4 +137,13 @@ CORS_ALLOW_HEADERS = [
     'refresh-token',
     'access-token',
     'content-type',
+    'Access-Token',
+    'Refresh-Token'
+]
+
+CORS_EXPOSE_HEADERS = [
+    'Access-Token',
+    'Refresh-Token',
+    'access-token',
+    'refresh-token'
 ]
