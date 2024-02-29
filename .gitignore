@@ -1,0 +1,7 @@
+.venv
+volapp/test.ipynb
+dockerfile
+.dockerignore
+testUploads
+*.yml
+*.env
