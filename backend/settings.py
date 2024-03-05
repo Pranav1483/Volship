@@ -22,7 +22,7 @@ SECRET_KEY = env('SECRET_KEY')
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '43.204.116.40']
+ALLOWED_HOSTS = ['localhost', '43.204.116.40', 'volship.vercel.app']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
